@@ -45,3 +45,6 @@ Connect the components as follows:
 1. **Clone the Repository**:
    ```sh
    git clone <repository-url>
+   
+## License
+This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE.txt) file for details.
